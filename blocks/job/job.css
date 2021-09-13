@@ -1,0 +1,33 @@
+.job {
+  display: block;
+  margin: 0;
+  min-height: 34px;
+  background-image: url("../../images/Ellipse.png");
+  background-repeat: no-repeat;
+  background-size: 34px;
+  background-position: left;
+  padding-left: 10px;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.18em;
+}
+
+.job::first-letter {
+  color: black;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+@media screen and (max-width: 710px) {
+  .job {
+    padding-left: 5px;
+    padding-top: 5px;
+    max-width: 310;
+    background-size: 22px;
+    font-size: 18px;
+    letter-spacing: 0.1em;
+  }
+}
