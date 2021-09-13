@@ -1,0 +1,10 @@
+.footer__container {
+  margin: 0 auto;
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  background-image: url("../../../images/rs_school_js.svg");
+}

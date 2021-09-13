@@ -17,3 +17,6 @@
 @import url(./blocks/wrapper/__skils-content/wrapper__skils-content.css);
 @import url(./blocks/wrapper/__about-content/wrapper__about-content.css);
 @import url(./blocks/wrapper/__contacts-content-image/wrapper__contacts-content-image.css);
+
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__container/footer__container.css);
