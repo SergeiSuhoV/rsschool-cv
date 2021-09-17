@@ -1,1 +1,1 @@
-https://SergeiSuhoV.github.io/rsschool-cv/cv
+https://SergeiSuhoV.github.io/rsschool-cv/tree/rsschool-cv-html
