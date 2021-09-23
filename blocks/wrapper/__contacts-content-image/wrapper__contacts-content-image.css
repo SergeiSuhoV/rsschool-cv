@@ -1,0 +1,14 @@
+.wrapper__contacts-content-image {
+  position: absolute;
+  top: -50%;
+  left: 0;
+  display: block;
+  width: 34px;
+  margin: 0;
+}
+
+@media screen and (max-width: 710px) {
+  .wrapper__contacts-content-image {
+    top: 45%;
+  }
+}

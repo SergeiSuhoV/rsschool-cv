@@ -1,0 +1,18 @@
+.wrapper__skils-content {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  color: #c9c9c9;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 0.03em;
+}
+
+@media screen and (max-width: 710px) {
+  .wrapper__skils-content {
+    padding-top: 30px;
+    padding-bottom: 50px;
+  }
+}
